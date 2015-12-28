@@ -1,10 +1,10 @@
-#include<string>
-#include<string.h>
+#include <string>
+#include <string.h>
 #include <iostream>
 
 using namespace std;
 
-int main() {
+void Search() {
 	string search;
 	
 	// Only edit this code!
